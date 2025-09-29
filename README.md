@@ -1,4 +1,4 @@
-# LIMPAR-ACENTOS-
+# LIMPAR-ACENTOS
 ✅ Como usar
 
 Pressione Alt + F11 para abrir o Editor do VBA.
